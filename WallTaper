@@ -5,7 +5,7 @@ $url = "$dc"
 
 $wp = "$Env:tmp\---wp.png"
 
-iwr 'https://is.gd/AqBYVB' -O $wp
+iwr $url -O $wp
 
 Function Set-WallPaper {
  
